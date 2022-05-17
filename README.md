@@ -1,6 +1,6 @@
 # Tic tac toe / Jogo da velha :o::x:
 
-Neste repositorio esta o Jogo da velha que criei visando praticar minha logica de programação e meu entendimento sobre listas, metodos e validação de dados.
+Neste repositório esta o Jogo da velha que criei visando praticar minha logica de programação e meu entendimento sobre listas, metodos e validação de dados.
 Abaixo um GIF de como a aplicação funciona quando é rodada:
 
 ![GIF tictactoe](https://github.com/MarcoAlarcon/tic_tac_toe/blob/main/img%20tic_tac_toe/partida.GIF).
